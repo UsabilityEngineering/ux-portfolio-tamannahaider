@@ -1,5 +1,6 @@
-# UX Portfolio
+# Tamanna Haider's UX Portfolio
 
+Hello! My name is Tamanna Haider and I am studying Computer Science at California State University, Chico. This is my portfolio of projects and journals.
 
 ## UX Team Project
 
