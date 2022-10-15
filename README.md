@@ -8,4 +8,4 @@ Hello! My name is Tamanna Haider and I am studying Computer Science at Californi
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with Procreate](j01/)
