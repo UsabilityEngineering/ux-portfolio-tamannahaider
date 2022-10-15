@@ -1,6 +1,6 @@
 # UX Journal - j01
 
-#**Analysis of Procreate - User Perspective*
+#**Analysis of Procreate - User Perspective**
 
 ##**By Tamanna Haider - October 14th, 2022**
 
